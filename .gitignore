@@ -14,3 +14,9 @@ log.txt
 *.dll
 *.pyc
 
+.direnv
+result
+deps/glfw/examples/particles
+deps/glfw/src/glfw_config.h
+deps/glfw/tests
+glfw*.cmake
